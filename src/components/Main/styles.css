@@ -1,0 +1,12 @@
+.root {
+    margin-top: 15%;
+}
+
+.by-loc-btn {
+    margin-left: 10px;
+}
+
+.weather-result .result-title span{
+    color: #b4b3b3;
+    margin-left: 10px
+}
